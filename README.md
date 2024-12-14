@@ -29,7 +29,7 @@
       <!--Orta Kısmın Birinci Alanı - (Buttonlu Alan) -->
       <section>
         <h1>Effective Solutions for Your Business</h1>
-        <button>Order Service</button>
+        <button type="button">Order Service</button>
       </section>
       <!--Orta Kısmın Birinci Alanı Bitti-->
 
